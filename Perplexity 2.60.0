@@ -2,7 +2,7 @@
   {
     "Header": "Default",
     "version_code": 2,
-    "force_update": true,
+    "force_update": false,
     "title": "Security Notice 🤨",
     "description_type": 1,
     "html_formatted": false,
@@ -12,13 +12,13 @@
     "update_url": "https://t.me/OfficalDSMods",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 5,
-    "show_only_update_button": true
+    "show_only_update_button": false
   },
   {
     "Header": "Paid Dialog Box",
     "package_name": "ai.perplexity.app.android",
     "version_code": 0,
-    "force_update": true,
+    "force_update": false,
     "title": "Update Required v14.6.0",
     "description_type": 1,
     "html_formatted": false,
