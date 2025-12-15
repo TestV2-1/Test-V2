@@ -1,0 +1,46 @@
+{
+  "packageName": "com.lemon.lvoverseas",
+  "versionName": "16.1.0",
+  "forceUpdate": false,
+  "ExpiredDate": "2030/09/20 01:42:00",
+  "description": "Please note that we have released a new update now 👍🏻.\n New update mean new features or some improvement in this app 🤗\n We will give you some time to update our mod and when you click on cancel button, you will be shown the time when the dialogue will appear again 😊.\n You can contact us in Telegram from here @KingOfModders ✓.\n You can ignore this update by clicking anywhere on the screen. 🤗",
+  "buttonText": "UPDATE NOW",
+  "buttonUrl": "https://t.me/EpicModder/",
+  "adminList": [
+    {
+      "iconUrl": "https://ar-hosting.pages.dev/1765809774461.jpg",
+      "AdminName": "YouTube Premium 🔥",
+      "Discription": "New Features Unlocked",
+      "url": "https://t.me/EpicModder/1567" 
+    },
+    { 
+      "iconUrl": "https://ar-hosting.pages.dev/1765809793638.jpg",
+      "AdminName": "TrueCaller Gold",
+      "Discription": "Know the caller's name from here",
+      "url": "https://t.me/EpicModder/1558"
+    },
+    {
+      "iconUrl": "https://ar-hosting.pages.dev/1765809864052.jpg",
+      "AdminName": "Ai Video Generator",
+      "Discription": "",
+      "url": "https://t.me/EpicModder/1559"
+    },
+    {      "iconUrl": "https://ar-hosting.pages.dev/1765809805476.jpg",
+      "AdminName": "Telegram Premium",
+      "Discription": "new features unlocked 😉",
+      "url": "https://t.me/EpicModder/1580"
+    },
+    {
+      "iconUrl": "https://ar-hosting.pages.dev/1765809845841.jpg",
+      "AdminName": "Remini Ai Photo Enhancer Unlimited.",
+      "Discription": "I think everyone knows it 😉",
+      "url": "https://t.me/EpicModder/1584"
+    },
+    {
+      "iconUrl": "https://ar-hosting.pages.dev/1765809885861.jpg",
+      "AdminName": "inShot Ai",
+      "Discription": "",
+      "url": "https://t.me/EpicModder/1551"
+    }
+  ]
+}
