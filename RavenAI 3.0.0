@@ -1,0 +1,50 @@
+[
+  {
+    "Header": "Default",
+    "version_code": 2,
+    "force_update": false,
+    "title": "Security Notice 🤨",
+    "description_type": 1,
+    "html_formatted": false,
+    "description": "Please return package name 👍🏻",
+    "update_button_text": "Update to our mod now 🤗",
+    "Update_dismiss_button_text": "Dismiss",
+    "update_url": "https://t.me/DSModsOfficial",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 5,
+    "show_only_update_button": true
+  },
+  {
+    "Header": "Paid Dialog Box",
+    "package_name": "com.raven.ai.chat.art.editor",
+    "version_code": 0,
+    "force_update": true,
+    "title": "Update Required v14.6.0",
+    "description_type": 1,
+    "html_formatted": false,
+    "description": "New Update Mean New Features 😉\nUpdate & Enjoy 🤫\nClick On Update Bottom to Download Latest Version From Our Channels 🤗\n @itshehzada \n @SpecialModder",
+    "update_button_text": "Update Now 👍🏻",
+    "Update_dismiss_button_text": "Not Now 😄",
+    "update_url": "https://t.me/DSModsOfficial",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 6,
+    "show_only_update_button": false
+  },
+  {
+    "Header": "HTML Example",
+    "package_name": "com.raven.ai.chat.art.editor",
+    "version_code": 92,
+    "force_update": true,
+    "title": "HTML Formatted Update",
+    "description_type": 2,
+    "html_formatted": true,
+    "description": "\u003Cfont color='#4CAF50'\u003E✓ Green checkmark items\u003C/font\u003E\u003Cbr\u003E\u003Cfont color='#FF5722'\u003E⚠ Important notes in orange\u003C/font\u003E\u003Cbr\u003E\u003Cbr\u003E\u003Ci\u003EItalic text for emphasis\u003C/i\u003E",
+    "update_button_text": "Update Now",
+    "Update_dismiss_button_text": "Later",
+    "update_url": "https://t.me/DSModsOfficial",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 5,
+    "show_only_update_button": true
+  }
+]
+
